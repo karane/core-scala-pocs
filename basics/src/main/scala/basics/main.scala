@@ -22,5 +22,8 @@ def main(): Unit =
   println("\n======== More Basics =========")
   MoreBasics.run()
 
+  println("\n======== Implicits Demo =========")
+  ImplicitsDemo.run()
+
 
 

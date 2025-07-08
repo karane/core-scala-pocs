@@ -18,6 +18,7 @@ learn the fundamental features of the language step by step.
 - Lazy Evaluation
 - Error Handling with `Try`
 - Context Parameters (`given`/`using` - Scala 3 feature)
+- Implicits
 
 ---
 
