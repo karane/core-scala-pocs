@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="imutability-ref-transparancy-poc,imutability-ref-transparancy-poc.main,imutability-ref-transparancy-poc.test" />
+  </component>
+</project>
